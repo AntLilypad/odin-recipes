@@ -1,0 +1,14 @@
+h1 {
+    color: rgba(255, 155, 155, .6);
+    background-color: #492d49;
+    width: fit-content;
+}
+
+p {
+    background-color: #ffacac;
+    color: #492d49;
+    width: fit-content;
+    font-size: 20px;
+    font-weight: 500;
+}
+

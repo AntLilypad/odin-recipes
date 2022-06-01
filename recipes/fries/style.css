@@ -1,0 +1,16 @@
+button {
+    width: 150px;
+    font-size: large;
+    font-weight: 700;
+}
+
+
+button.ing {
+    background-color: blueviolet;
+    color: #ffacac;
+}
+
+button.ste {
+    background-color: #ffacac;
+    color: blueviolet;
+}

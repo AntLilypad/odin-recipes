@@ -1,0 +1,20 @@
+.ing {
+    background-color: #ffacdd;
+    width: 85px;
+}
+
+.ste {
+    background-color: #dd00ff;
+    width: 85px;
+    color: white;
+}
+
+ol li {
+    background-color: rgba(55, 240, 150, .5);
+    width: 500px;
+}
+
+ul li {
+    background-color: rgba(55, 125, 200, .5);
+    width: 500px;
+}
