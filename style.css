@@ -8,8 +8,11 @@ h1 {
     color: rgba(255, 155, 155, .6);
     background-color: #492d49;
     width: 300px;
-    border: 5px solid #00ffa966;
-    border-radius: 5px;
+    border: 5px dotted #00ffa980;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: .5em;
+    margin-top: 1em;
 }
 
 button {
@@ -23,5 +26,6 @@ button {
     border: 5px solid #00ffa980;
     margin: 10px;
     border-radius: 20px;
+    
 }
 
